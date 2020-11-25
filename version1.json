@@ -1656,7 +1656,7 @@
         },
         {
           "abbreviation" : "MIZZOU",
-          "prestige" : "45",
+          "prestige" : "75",
           "hexColor" : "#F1B82D",
           "rival" : "CCU",
           "headCoach" : {
@@ -2692,7 +2692,7 @@
         },
         {
           "abbreviation" : "ARI",
-          "prestige" : "48",
+          "prestige" : "68",
           "hexColor" : "#002147",
           "rival" : "HI",
           "headCoach" : {
