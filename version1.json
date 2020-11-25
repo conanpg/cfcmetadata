@@ -2478,7 +2478,7 @@
           "abbreviation" : "BSU",
           "prestige" : "58",
           "hexColor" : "#0033A0",
-          "rival" : "FRES",
+          "rival" : "USU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2502,7 +2502,7 @@
           "abbreviation" : "FRES",
           "prestige" : "54",
           "hexColor" : "#C41230",
-          "rival" : "BSU",
+          "rival" : "SJSU",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2526,7 +2526,7 @@
           "abbreviation" : "COL",
           "prestige" : "75",
           "hexColor" : "#002E5D",
-          "rival" : "USU",
+          "rival" : "ARI",
           "headCoach" : {
             "contractLength" : "3",
             "startYear" : "2020",
@@ -2550,7 +2550,7 @@
           "abbreviation" : "USU",
           "prestige" : "50",
           "hexColor" : "#00263A",
-          "rival" : "BYU",
+          "rival" : "BSU",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -2622,7 +2622,7 @@
           "abbreviation" : "SD",
           "prestige" : "48",
           "hexColor" : "#A6192E",
-          "rival" : "JOSE",
+          "rival" : "HI",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2646,7 +2646,7 @@
           "abbreviation" : "JOSE",
           "prestige" : "45",
           "hexColor" : "#0055A2",
-          "rival" : "SD",
+          "rival" : "FRES",
           "headCoach" : {
             "contractLength" : "5",
             "startYear" : "2020",
@@ -2670,7 +2670,7 @@
           "abbreviation" : "HI",
           "prestige" : "52",
           "hexColor" : "#024731",
-          "rival" : "USAF",
+          "rival" : "SD",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2694,7 +2694,7 @@
           "abbreviation" : "ARI",
           "prestige" : "68",
           "hexColor" : "#002147",
-          "rival" : "HI",
+          "rival" : "COL",
           "headCoach" : {
             "contractLength" : "4",
             "startYear" : "2020",
